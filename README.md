@@ -31,25 +31,14 @@ Based on the **Feature Importance** analysis (where **Years of Experience** and 
 
 * **Language:** Python 3.x
 * **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-* **Environment:** Jupyter Notebook / Google Colab
+* **Environment:** Google Colab
 * **Version Control:** Git
 
 ## 📂 Repository Contents
 
-* `notebooks/02_Model_Training_Eval.ipynb`: Core notebook containing data cleaning, model training, and evaluation for the three models.
-* `data/raw/salary_data.csv`: The original dataset used for analysis.
-* `reports/feature_importance.png`: Visualization of the top 10 features influencing salary prediction.
+* `Salary_Prediction_Project.ipynb`: Core notebook containing data cleaning, model training, and evaluation for the three models.
+* `Salary_Data`: The original dataset used for analysis.
 
-## 📖 How to Reproduce the Results
-
-To run this project locally or on Colab:
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone YOUR_GITHUB_HTTPS_URL
-    ```
-2.  **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Execute:** Run the cells in the primary notebook (`notebooks/02_Model_Training_Eval.ipynb`) sequentially to reproduce the results and model evaluation.
+## Conclusion
+* This project spent 4 days working on it includes coding, analysing, training, testing and pulling to Github.
+* **Thank you for spending time reading and exploring my self-project.**
